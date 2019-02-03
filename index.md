@@ -3,7 +3,7 @@ layout: home
 excerpt: "Przydatne informacje o naszym ślubie..."
 show_excerpts: true
 paginate: true
-entries_layout: grid
+entries_layout: list
 ---
 
 Kiedy?
