@@ -3,3 +3,15 @@ title: Pobieramy się!!!
 description: Przydatne informacje o naszym ślubie...
 logo: /assets/images/heart.jpg
 locale: pl-PL
+collections:
+  infos:
+    output: true
+    permalink: /:collection/:path/
+defaults:
+  - scope:
+      path: "_infos"
+      type: infos
+    values:
+      layout: post
+      comments: true
+      share: true
