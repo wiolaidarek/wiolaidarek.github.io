@@ -15,3 +15,6 @@ defaults:
       layout: post
       comments: true
       share: true
+author:
+  name: Wiola i Darek
+  picture: /assets/images/selfie.jpg
