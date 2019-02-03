@@ -16,5 +16,6 @@ Gdzie?
 
 Ślub:
   - Sanktuarium MB Jaworzyńskiej na Wiktorówkach.
+
 Przyjęcie:
-  - Tatrzński Bór ul. Lichajówki 7, Małe Ciche, 34-531 Murzasichle
+  - Tatrzański Bór ul. Lichajówki 7, Małe Ciche, 34-531 Murzasichle
