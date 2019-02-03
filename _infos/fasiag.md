@@ -8,4 +8,4 @@ image:
 Jeśli tego dnia nie czujecie się na siłach, by sprostać trudom szlaku na Wiktorówki - przy parkingu będzie czekać fasiąg. Może zabrać 8 osób i ewentualnie kilka podręcznych rzeczy.
 
 
-# Miejsce: parking przy Zazadniej
+**Miejsce: parking przy Zazadniej**

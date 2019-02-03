@@ -11,4 +11,4 @@ Zapraszamy Was serdecznie w dniach 28-30.06.2019.
 - Wymeldowanie: 8:00-11:00
 
 
-# Adres: ul. Lichajówki 7, Małe Ciche, 34-531 Murzasichle
+**Adres: ul. Lichajówki 7, Małe Ciche, 34-531 Murzasichle**
