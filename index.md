@@ -6,4 +6,4 @@ paginate: true
 entries_layout: list
 ---
 
-Szlaki, ślub, przyjęcie, noclegi i inne - szukajcie w zakładce *Informacje*.
+Szlaki, ślub, przyjęcie, noclegi i inne
