@@ -6,8 +6,6 @@ paginate: true
 entries_layout: grid
 ---
 
-Na tej stronie znajdziecie kilka podstawowych informacji o naszej uroczystości.
-
 Kiedy?
 
 **29.06.2019**
