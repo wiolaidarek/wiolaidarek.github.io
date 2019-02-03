@@ -6,8 +6,15 @@ paginate: true
 entries_layout: grid
 ---
 
-# Drodzy goście!!!
+Na tej stronie znajdziecie kilka podstawowych informacji o naszej uroczystości.
 
-*29.06.2019*
+Kiedy?
 
-Na tej stronie znajdziecie kilka przydatnych, podstawowych informacji o naszej uroczystości.
+**29.06.2019**
+
+Gdzie?
+
+Ślub:
+  - Sanktuarium MB Jaworzyńskiej na Wiktorówkach.
+Przyjęcie:
+  - Tatrzński Bór ul. Lichajówki 7, Małe Ciche, 34-531 Murzasichle
