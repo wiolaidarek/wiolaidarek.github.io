@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+excerpt: "Przydatne informacje o naszym ślubie..."
 show_excerpts: true
 paginate: true
 entries_layout: grid
