@@ -4,4 +4,5 @@ layout: collection
 permalink: /infos/
 collection: infos
 entries_layout: grid
+sort_order: reverse
 ---
