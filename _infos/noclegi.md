@@ -2,6 +2,7 @@
 title: Noclegi
 image:
   path: /assets/images/noclegi.jpg
+  thumbnail: /assets/images/noclegi-thmb.jpg
   caption: Tatrzański Bór Apartamenty
 ---
 
