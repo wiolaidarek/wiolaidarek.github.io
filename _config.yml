@@ -9,14 +9,6 @@ collections:
     permalink: /:collection/:path/
 defaults:
   - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      comments: true
-      share: true
-defaults:
-  - scope:
       path: "_infos"
       type: infos
     values:
