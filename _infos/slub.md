@@ -12,7 +12,7 @@ Wiktorówki, gdzie mieści się Sanktuarium MB Jaworzyńskiej, Królowej Tatr, z
 
 Na Wiktorówki prowadzą dwa szlaki:
 
-- niebieski. biegnący od leśniczówki Zazadnia przez Dolinę Filipka, porośniętą głównie lasami jodłowo-świerkowymi. Podejście przebiegające w większości leśną, utwardzoną drogą (tylko pod koniec są bardziej strome zakosy oraz drewniane schody i poręcze), zajmuje około 45 minut. Różnica poziomów wynosi 200 metrów.
+- niebieski, biegnący od leśniczówki Zazadnia przez Dolinę Filipka, porośniętą głównie lasami jodłowo-świerkowymi. Podejście przebiegające w większości leśną, utwardzoną drogą (tylko pod koniec są bardziej strome zakosy oraz drewniane schody i poręcze), zajmuje około 45 minut. Różnica poziomów wynosi 200 metrów.
 
 - zielony, prowadzący do Sanktuarium z Wierchu Porońca. Szlak wyprowadza na niezwykle malowniczą Rusinową Polanę, skąd w około 10 minut możemy dostać się na Wiktorówki. Różnica wzniesień do pokonania jest minimalna, a przejście zajmuje ok godziny. Od samego początku towarzyszyć Wam będą panoramy Tatr Bielskich i Wysokich.
 
