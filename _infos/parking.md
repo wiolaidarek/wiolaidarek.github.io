@@ -6,7 +6,8 @@ image:
   caption: Wspaniały Jeep WJ w Dolomitach. Darek lubi Jeepy
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Do Sanktuarium na Wiktorówkach prowadzą dwa szlaki. Tuż przy wejściu na każdy z nich znajduje się parking. Jeden na Wierchu Poroniec, drugi na Zazadniej Przełęczy.
 
-## Header
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Miejsca parkingowe
+
+Nie jest tajemnicą, że miejsc do parkowania w górach jest mało, a chętnych wielu. Postaramy się, by kilka miejsc czekało do Waszej dyspozycji, ale serdecznie Was prosimy, by wolnych miejsc w samochodzie było jak najmniej. Niech wolne samochody zostaną na ten czas na parkingu [Tatrzańskiego Boru](http://www.tatrzanskibor.pl/).
