@@ -28,7 +28,7 @@ Warto pamiętać, że zwolnione z opłat są osoby udające się najkrótszą dr
 
 ## Sanktuarium
 
-W pełni rozumiemy, że Ślub w takim miejscu wymaga pewnego „przygotowania”, dlatego też nie obrazimy się, jeśli zamiast szpilek i pantofli zobaczymy Was w butach trekkingowych, a  strój będzie nieco mniej formalny. Zachęcamy Was do obejrzenia relacji [naszego fotografa](https://dearhunter.pl), ze ślubów innych par, z tego samego miejsca:
+W pełni rozumiemy, że Ślub w takim miejscu wymaga pewnego „przygotowania”, dlatego też nie obrazimy się, jeśli zamiast szpilek i pantofli zobaczymy Was w butach trekkingowych, a  strój będzie nieco mniej formalny. Zachęcamy Was do obejrzenia relacji naszego [fotografa](https://dearhunter.pl), ze ślubów innych par, z tego samego miejsca:
 
 - [Relacja fotograficzna 1](https://dearhunter.pl/olakrzys-2/)
 - [Relacja fotograficzna 2](https://dearhunter.pl/kasiamichal-2/)
