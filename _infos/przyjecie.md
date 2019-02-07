@@ -6,7 +6,7 @@ image:
   caption: Copyright tatrzanskibor.pl
 ---
 
-Po uroczystości zaślubin i trudzie wędrówki zapraszamy do [karczmy Tatrzański Bór]((http://www.tatrzanskibor.pl/)). Nie będzie to tradycyjne wesele, a skromne przyjęcie.
+Po uroczystości zaślubin i trudzie wędrówki zapraszamy do karczmy [Tatrzański Bór](http://www.tatrzanskibor.pl/). Nie będzie to tradycyjne wesele, a skromne przyjęcie.
 
 ## Droga do Karczmy
 
