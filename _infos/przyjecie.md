@@ -6,12 +6,12 @@ image:
   caption: Copyright tatrzanskibor.pl
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Po uroczystości zaślubin i trudzie wędrówki zapraszamy do [karczmy Tatrzański Bór]((http://www.tatrzanskibor.pl/)). Nie będzie to tradycyjne wesele, a skromne przyjęcie.
 
+## Droga do Karczmy
 
+Bezpośrednio po ślubie, planujemy się wybrać na krótką sesję z naszym fotografem (ok 45 min). Nie ma więc pośpiechu, możecie spokojnie schodzić szlakiem w swoim tempie lub zostać jeszcze chwilę, by podziwiać przyrodę. Wystarczy też czasu na poprawkę makijażu w apartamencie :)
 
+## Nasz Czas
 
-## Header
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<a href="http://www.tatrzanskibor.pl/">Tatrzański Bór</a>
+Mamy nadzieję spędzić z Wami czas przy stole, na rozmowach, spacerach i planszówkach. Choć nie mamy zespołu ani wodzireja, towarzyszyć nam będzie muzyka i nie zabraniamy - wręcz przeciwnie! - nikomu tańczyć. Nie mamy żadnego ograniczenia czasowego i nie chcemy Wam niczego narzucać - bądźmy po prostu razem :)
