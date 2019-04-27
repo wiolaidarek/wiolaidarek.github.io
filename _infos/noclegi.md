@@ -18,7 +18,7 @@ Zapraszamy Was serdecznie w dniach 28-30.06.2019.
 
 Nie musicie się martwić o śniadanie - będzie na Was czekać tuż obok, w karczmie :)
 
-Drodzy goście, zajmujemy wszystkie pokoje udostępnione przez Tatrzański Bór na czas imprezy.
+Drodzy Goście, zajmujemy wszystkie pokoje udostępnione przez Tatrzański Bór na czas imprezy.
 Ponieważ apartamenty są kilkuosobowe, staraliśmy się rozmieścić wszystkich według najbliższego pokrewieństwa.
 Jeśli chcecie wynająć lokum samodzielnie, gdzieś indziej - **prosimy poinformujcie nas o tym do końca maja**.
 
