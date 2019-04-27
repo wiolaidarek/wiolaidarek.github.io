@@ -20,7 +20,7 @@ Nie musicie się martwić o śniadanie - będzie na Was czekać tuż obok, w ka
 
 Drodzy goście, zajmujemy wszystkie pokoje udostępnione przez Tatrzański Bór na czas imprezy.
 Ponieważ apartamenty są kilkuosobowe, staraliśmy się rozmieścić wszystkich według najbliższego pokrewieństwa.
-Jeśli chcecie wynająć lokum sami - prosimy poinformujcie nas o tym do końca maja.
+Jeśli chcecie wynająć lokum samodzielnie, gdzieś indziej - prosimy poinformujcie nas o tym do końca maja.
 Poniżej znajdziecie tabelę z zakwaterowaniem.
 
 nr pokoju|ilość osób|konfiguracja łóżek|uwagi|rezerwacja
