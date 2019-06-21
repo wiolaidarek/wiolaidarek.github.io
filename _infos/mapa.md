@@ -1,9 +1,5 @@
 ---
 title: Mapa
-image:
-  path: /assets/images/fasiag.jpg
-  thumbnail: /assets/images/fasiag-thmb.jpg
-  caption: Fasiąg -  czterokołowy pojazd konny używany głównie na Podhalu do przewożenia turystów
 ---
 
 <div id='googleMap' style='width: 100%; height: 400px;'></div>
