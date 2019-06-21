@@ -15,11 +15,11 @@ Lokalizację parkingów, karczmy i oczywiście Sanktuarium na Wiktorówkach znaj
 	} 
 	var parking_wierch = {
 		'position': {lat: 49.284997, lng: 20.112783},
-		'label': 'Parking',
+		'label': 'Parking - Wierch Poroniec',
 	}
 	var parking_oswald = {
 		'position': {lat: 49.282389, lng: 20.087412},
-		'label': 'Parking',
+		'label': 'Parkingi - Zazadnia',
 	}
 	var tatrzanski_bor = {
 		'position': {lat: 49.311799, lng: 20.061783},
