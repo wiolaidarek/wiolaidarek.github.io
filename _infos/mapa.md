@@ -28,7 +28,6 @@ Lokalizację parkingów, karczmy i oczywiście Sanktuarium na Wiktorówkach znaj
 	var wiktorowki = {
 		'position': {lat: 49.265404, lng: 20.086490},
 		'label': 'Sanktuarium Wiktorówki - ślub',
-		'icon': '/assets/images/heart-map-marker.jpg',
 	}
 
 	function myMap() {
@@ -55,7 +54,6 @@ Lokalizację parkingów, karczmy i oczywiście Sanktuarium na Wiktorówkach znaj
 		  {
 			position: wiktorowki['position'],
 			label: wiktorowki['label'], 
-			icon: wiktorowki['icon'],
 			map: map,
 		  }
 	  ) 
