@@ -1,5 +1,7 @@
 ---
 title: Mapa
+image:
+  thumbnail: /assets/images/car-map-thmb.jpg
 ---
 
 Lokalizację parkingów, karczmy i oczywiście Sanktuarium na Wiktorówkach znajdziecie na poniższej mapie.
