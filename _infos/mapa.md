@@ -7,6 +7,7 @@ image:
 ---
 
 Lokalizację parkingów, karczmy i oczywiście Sanktuarium na Wiktorówkach znajdziecie na poniższej mapie.
+Droga między karczmą a parkingami prowadzi przez Murzasichle - nie dajcie się poprowadzić nawigacji przez leśne ścieżki i trzymajcie się głównych dróg! Jej przebycie zajmuje ok. 20 minut.
 
 <div id='googleMap' style='width: 100%; height: 400px;'></div>
 
