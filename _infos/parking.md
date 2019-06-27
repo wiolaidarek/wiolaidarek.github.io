@@ -14,4 +14,4 @@ Nie jest tajemnicą, że miejsc do parkowania w górach jest mało, a chętnych 
 
 **Uwaga!!!**
 
-Na parkingu **Wierch Poroniec** czekać będzie **7** miejsc. Na parkingu **Zazadnia** będzie **6** miejsc. Parkingowym podajcie nazwisko **Izak** i **czas ślubu**. 
+Na parkingu **Wierch Poroniec** czekać będzie **6** miejsc. Na parkingu **Zazadnia**  - **5** miejsc. Hasło: nazwisko Pana Młodego i godzina ślubu :) 
